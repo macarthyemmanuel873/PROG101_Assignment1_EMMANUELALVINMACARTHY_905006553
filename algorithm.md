@@ -119,8 +119,3 @@ Values are illustrative and must be calibrated with SLMet and NDMA.
 | 15 | Wait 10 minutes for acknowledgement | Escalate if none received |
 | 16 | previousLevel = ORANGE | Stored for the next cycle |
 
-## 10. Related Files
-
-- `pseudocode.md`: full pseudocode for every function
-- Flowcharts 1 to 6 (PNG files in this repository)
-- Report (Word file): rationale, expected outputs and references
